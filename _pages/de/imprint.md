@@ -14,7 +14,9 @@ Auf der Körtge 3\
 Germany\
 \
 **E-Mail:** [legal@fabian-hasse.de](mailto:legal@fabian-hasse.de)\
-**Tel.:** 02953 965591
+**Tel.:** +49 2953 965591\
+\
+**USt-IdNr.:** DE 340 017 801
 
 ## Haftungsausschluss (Disclaimer)
 ### Haftung für Inhalte

@@ -14,7 +14,9 @@ Auf der Körtge 3\
 Germany\
 \
 **E-Mail:** [legal@fabian-hasse.de](mailto:legal@fabian-hasse.de)\
-**Phone:** 02953-965591
+**Phone:** +49 2953 965591\
+\
+**VAT no.:** DE 340 017 801
 
 ## Disclaimer
 ### Accountability for content
